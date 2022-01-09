@@ -2,6 +2,8 @@
 
 このレポジトリには[Making-it-rain](https://github.com/pablo-arantes/Making-it-rain)のノートブックを日本語化したものを置いています。MITライセンスの下で翻訳させていただいています。元のファイルの著作権はPablo Ricardo Arantes氏に帰属しています。
 
+**注意**：翻訳にあたってコードの変更等行わないよう極力気をつけていますが、動作確認していないため、オリジナルと全く同じ動きをする保証はありません。ご了承の上ご利用ください。
+
 Making it rainについてはオリジナルのGitHubを参照してください。以下は日本語化ノートブックをColabで開くリンクです。
 
 1. **AMBER** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/magattaca/making-it-rain-jp/blob/main/Amber_JP.ipynb)  - `AMBERを使ってトポロジーを生成しシミュレーションボックスを構築`
